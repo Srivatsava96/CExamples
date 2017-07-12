@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1499844306 source:d:\project\cpractice\cppmultiple inheritance\cfirst.cpp
+	"CFirst.h"
+	<iostream>
+	<stdlib.h>
+
+1499844148 d:\project\cpractice\cppmultiple inheritance\cfirst.h
+
+1499844300 source:d:\project\cpractice\cppmultiple inheritance\csecond.cpp
+	"CSecond.h"
+	<iostream>
+	<stdlib.h>
+
+1499844137 d:\project\cpractice\cppmultiple inheritance\csecond.h
+

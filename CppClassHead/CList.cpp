@@ -1,3 +1,9 @@
+//-----------------------------------------------------------------------------
+//Description: File for List class
+//Author: Srivatsava
+//Date: 12-07-2017
+//-----------------------------------------------------------------------------
+
 #include "CList.h"
 #include <iostream>
 #include <stdlib.h>

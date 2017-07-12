@@ -1,3 +1,9 @@
+//-----------------------------------------------------------------------------
+//Description: File for node class
+//Author: Srivatsava
+//Date: 12-07-2017
+//-----------------------------------------------------------------------------
+
 #include "CNode.h"
 #include <iostream>
 #include <stdlib.h>

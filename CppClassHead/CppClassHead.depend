@@ -2,7 +2,7 @@
 1499839400 source:d:\project\cpractice\cppclasshead\cdata.cpp
 	"CData.h"
 
-1499837583 d:\project\cpractice\cppclasshead\cdata.h
+1499841644 d:\project\cpractice\cppclasshead\cdata.h
 
 1499839772 source:d:\project\cpractice\cppclasshead\clist.cpp
 	"CList.h"
@@ -13,10 +13,10 @@
 	"CNode.h"
 	"CData.h"
 
-1499839513 d:\project\cpractice\cppclasshead\cnode.h
+1499841644 d:\project\cpractice\cppclasshead\cnode.h
 	"CData.h"
 
-1499839766 source:d:\project\cpractice\cppclasshead\cnode.cpp
+1499841645 source:d:\project\cpractice\cppclasshead\cnode.cpp
 	"CNode.h"
 	<iostream>
 	<stdlib.h>

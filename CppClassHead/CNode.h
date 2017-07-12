@@ -1,3 +1,9 @@
+//-----------------------------------------------------------------------------
+//Description: Header file for node class
+//Author: Srivatsava
+//Date: 12-07-2017
+//-----------------------------------------------------------------------------
+
 #ifndef CNode_H
 #define CNode_H
 #include "CData.h"

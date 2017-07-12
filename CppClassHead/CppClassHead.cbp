@@ -32,6 +32,12 @@
 			<Add option="-Wall" />
 			<Add option="-fexceptions" />
 		</Compiler>
+		<Unit filename="CData.cpp" />
+		<Unit filename="CData.h" />
+		<Unit filename="CList.cpp" />
+		<Unit filename="CList.h" />
+		<Unit filename="CNode.cpp" />
+		<Unit filename="CNode.h" />
 		<Unit filename="main.cpp" />
 		<Extensions>
 			<code_completion />

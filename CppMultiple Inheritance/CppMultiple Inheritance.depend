@@ -4,12 +4,28 @@
 	<iostream>
 	<stdlib.h>
 
-1499844148 d:\project\cpractice\cppmultiple inheritance\cfirst.h
+1499849334 d:\project\cpractice\cppmultiple inheritance\cfirst.h
 
 1499844300 source:d:\project\cpractice\cppmultiple inheritance\csecond.cpp
 	"CSecond.h"
 	<iostream>
 	<stdlib.h>
 
-1499844137 d:\project\cpractice\cppmultiple inheritance\csecond.h
+1499849653 d:\project\cpractice\cppmultiple inheritance\csecond.h
+
+1499844394 source:d:\project\cpractice\cppmultiple inheritance\main.cpp
+	<iostream>
+	<stdlib.h>
+	"CFirst.h"
+	"CSecond.h"
+	"CThird.h"
+
+1499849741 d:\project\cpractice\cppmultiple inheritance\cthird.h
+	"CFirst.h"
+	"CSecond.h"
+
+1499848340 source:d:\project\cpractice\cppmultiple inheritance\cthird.cpp
+	"CThird.h"
+	<iostream>
+	<stdlib.h>
 

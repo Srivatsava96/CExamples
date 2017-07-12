@@ -14,5 +14,6 @@ class CThird: public CFirst, public CSecond
 public:
     CThird();
     CThird(int x);
+    ~CThird();
 };
 #endif // CThird_H

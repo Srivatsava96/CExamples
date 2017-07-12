@@ -18,3 +18,8 @@ CFirst::CFirst(int x)
 {
     cout<<"This is first class constructor with value: "<<x<<endl;
 }
+
+CFirst::~CFirst()
+{
+    cout<<"Destructor of first class called"<<endl;
+}

@@ -18,3 +18,8 @@ CThird::CThird(int x):CFirst(x),CSecond(x)
 {
     cout<<"This is the third class constructor with value: "<<x<<endl;
 }
+
+CThird::~CThird()
+{
+    cout<<"Destructor of third class called"<<endl;
+}

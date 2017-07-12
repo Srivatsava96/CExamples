@@ -12,5 +12,6 @@ class CSecond
 public:
     CSecond();
     CSecond(int);
+    ~CSecond();
 };
 #endif // CSecond_H

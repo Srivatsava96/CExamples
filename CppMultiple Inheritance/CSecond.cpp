@@ -18,3 +18,8 @@ CSecond::CSecond(int x)
 {
     cout<<"This is the second class constructor with value: "<<x<<endl;
 }
+
+CSecond::~CSecond()
+{
+    cout<<"Destructor of second class called"<<endl;
+}

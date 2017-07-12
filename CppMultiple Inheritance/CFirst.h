@@ -11,5 +11,6 @@ class CFirst
 public:
     CFirst();
     CFirst(int);
+    ~CFirst();
 };
 #endif // CFirst_H
